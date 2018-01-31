@@ -2,11 +2,15 @@
 
 ## Implementation of an Aggregator Microservice Design Pattern
 
-### Aggregator
-Production App:
+![Video Microservice - Showing Partitions](img/video-platform-monolith-microservices.png "A Video Service Microservice Architecture)
+![The Basic Pattern](img/5302608-1.png "Basic MicroService Example")
 
-### MicroServices 
-MicroServie 1: https://cryptic-sierra-23488.herokuapp.com/
-MicroServie 2:
-MicroServie 3:
+### Aggregator  
+Production App:  
+
+
+### MicroServices  
+MicroServie 1: https://cryptic-sierra-23488.herokuapp.com/  
+MicroServie 2:  
+MicroServie 3:  
 
