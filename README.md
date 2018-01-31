@@ -2,7 +2,7 @@
 
 ## Implementation of an Aggregator Microservice Design Pattern
 
-![Video Microservice - Showing Partitions](img/video-platform-monolith-microservices.png "A Video Service Microservice Architecture)
+![Video Microservice - Showing Partitions](img/video-platform-monolith-microservices.png "A Video Service Microservice Architecture")
 ![The Basic Pattern](img/5302608-1.png "Basic MicroService Example")
 
 ### Aggregator  
