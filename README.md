@@ -10,8 +10,8 @@ Production App: https://cryptic-sierra-23488.herokuapp.com/
 
 
 ### MicroServices  
-MicroService 1: https://cryptic-sierra-23488.herokuapp.com/ (Spring Boot)
-MicroService 2: (Wildfly)
-MicroService 3: (Tomcat)
-MicroService 4: (Akka)
+MicroService 1: https://cryptic-sierra-23488.herokuapp.com/ (Spring Boot)  
+MicroService 2: (Wildfly)  
+MicroService 3: (Tomcat)  
+MicroService 4: (Akka)  
 
